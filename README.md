@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ishan Wickremasuriya 
 ================================================================================================================================
 
-Full Stack Developer
+Software Engineer | Web Developer | Mobile Application Developer
 --------------------
 
 I am a developer who loves programming languages, frameworks, libraries and utilities that can communicate with electronic devices.
