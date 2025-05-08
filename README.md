@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Web Developer | Mobile Application Developer
 --------------------
 
-I am a developer who loves programming languages, frameworks, libraries and utilities that can communicate with electronic devices.
+I'm a seasoned Software Engineer and Developer with over 11 years of experience in complex systems. I excel in full-stack development, enterprise software architecture, and re-engineering legacy systems with modern technologies. Proficient in JavaScript/TypeScript, Angular, and Node.js, Java, with experience in SQLite, Oracle database management. Skilled in Apple development using Swift/SwiftUI to build high-performance applications.
 
 ### Skills
 
